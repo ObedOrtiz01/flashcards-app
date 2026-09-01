@@ -1,11 +1,17 @@
 # FlashCards App
 
-Aplicación interactiva de tarjetas de estudio (*flashcards*) orientada a la práctica y autoevaluación mediante repetición activa.
+## Descripción
+FlashCards App es una aplicación interactiva diseñada para optimizar el proceso de aprendizaje mediante el uso de tarjetas de estudio dinámicas. El sistema permite a los estudiantes organizar conceptos clave en mazos categorizados, realizar sesiones de autoevaluación dinámicas y llevar un seguimiento de su rendimiento académico, facilitando la retención de información mediante la repetición activa.
 
-## Fase 1: Elección y Justificación del Proyecto
-* **Proyecto:** FlashCards App
-* **Justificación:** Desarrollo de una aplicación interactiva enfocada en el aprendizaje activo y la repetición espaciada. El proyecto abarca la creación y administración de mazos de estudio, la evaluación dinámica de respuestas del usuario y la estructuración del estado de la aplicación con persistencia de datos.
+## User Stories
+- Como estudiante, quiero crear, editar y eliminar tarjetas de estudio con preguntas y respuestas para personalizar mis temas de repaso.
+- Como estudiante, quiero visualizar las tarjetas una a una con la opción de voltearlas para verificar si mi respuesta fue correcta.
+- Como estudiante, quiero organizar mis tarjetas en diferentes mazos o categorías para estudiar asignaturas específicas.
+- Como estudiante, quiero marcar mis respuestas como correctas o incorrectas durante una sesión de repaso para evaluar mi nivel de dominio sobre el tema.
+- Como estudiante, quiero que la aplicación guarde mis tarjetas y mi avance en un archivo persistente para no perder la información al cerrar el programa.
 
-## Fase 2: Selección y Justificación de la Metodología
-* **Metodología:** Ágil (Kanban individual)
-* **Justificación:** Se implementa un enfoque ágil respaldado por la herramienta GitHub Projects (Kanban) para gestionar el desarrollo individual de forma iterativa y flexible. Desglosar las funcionalidades en *Issues* vinculadas a un tablero visual (*To Do*, *In Progress*, *Done*) permite mantener visibilidad sobre las tareas pendientes, organizar las entregas mediante commits claros y asegurar la finalización del proyecto a tiempo.
+## Metodología
+Ágil (Kanban individual) — Se adoptó una metodología ágil apoyada en un tablero Kanban dentro de GitHub Projects para gestionar el desarrollo de forma iterativa y flexible. Al trabajar de manera individual, dividir las funcionalidades del proyecto en *Issues* asociadas a columnas de estado (*To Do*, *In Progress*, *Done*) permite mantener control sobre el avance, organizar las entregas mediante commits descriptivos vinculados a tareas y adaptar los requisitos conforme se completan los módulos.
+
+## Integrantes del equipo
+- Obed Ortiz — ObedOrtiz01
